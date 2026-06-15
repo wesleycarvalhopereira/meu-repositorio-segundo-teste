@@ -10,6 +10,4 @@
 
 4. Criar uma nova Branch e Merge; \[ X ]
 
-5. Realizar uma Pull Request; \[ X ]
-
-6. Criando o primeiro Fork. \[ ]
+5. Realizar um Fork e Pull Request; \[ X ]
